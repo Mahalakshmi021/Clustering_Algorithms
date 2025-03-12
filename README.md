@@ -45,7 +45,7 @@ Since this is a **clustering problem**, we drop the species column and use unsup
 ## Repository Structure
 ```
 |-- iris-clustering/
-    |-- Iris_clustering.ipynb  # Jupyter Notebook with full implementation
+    |-- Clustering_Algorithm.ipynb  # Jupyter Notebook with full implementation
     |-- README.md              # Project Documentation
     |-- dataset/               # Optional: If any modified dataset is used
 ```
